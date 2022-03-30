@@ -7,14 +7,13 @@
 #
 #
 #Author         :       Anuj Kumar Singh
-#Email ID       :       anuj.a.singh@oracle.com
 #Modified       :       24-12-2018
 #Created        :       16-08-2018
 #Descrition     :  This script automate Pre Health check task , it can be used as independent script or can
 #                  be clubbed in ATOM 2.0 workflow as set of tasks.
 #                  NOTE: Any front end health check is not included in script please perform it manaully.
 #
-#    *** DO NOT MAKE ANY CHANGES IN SCRIPT WITHOUT APPROVAL OF AUTHOR OR YOU MAY CONSULT HIS/HER MANAGER ***
+#    *** DO NOT MAKE ANY CHANGES IN SCRIPT WITHOUT APPROVAL OF AUTHOR  ***
 #################################################################################################################
 
 send_mail ()
